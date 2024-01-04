@@ -1,4 +1,8 @@
-# Task
+# Listbox component
+
+[![Listbox closed](https://i.ibb.co/9nqB0CG/Listbox-1.png)](https://i.ibb.co/9nqB0CG/Listbox-1.png)
+
+[![Listbox open](https://i.ibb.co/3S2bxb3/Listbox-2.png)](https://i.ibb.co/3S2bxb3/Listbox-2.png)
 
 Listbox(select) with the option to select multiple values. It mimics a select input dropdown and it's complete with robust support for keyboard navigation and accessible for screenreaders.
 
@@ -32,4 +36,3 @@ After this there should be two applications running:
 ### Notes
 
 This exercise has been created using [vite](https://vitejs.dev/) with the [TypeScript template](https://vitejs.dev/guide/features.html#typescript).
-
